@@ -1,0 +1,25 @@
+﻿Övriga krav:
+• Någon form av poängräkningssystem skall implementeras. (1p)
+
+TODO:
+// - Statistik i slutet av varje level (spara om det finns tid)
+
+FIXES
+- Perfect visibility detection
+
+NEW
+	CORE
+	- Triggers (that trigger functions)
+		- Remove sprite
+		- Trigger trap
+	- Point system (statistics on everything)
+	- Hidden items - collectibles
+	- At least 3 levels
+	- Powerups that make traps ineffective
+
+	MENU
+	- (Options)
+
+	POLISH
+	- More sounds
+	- Baine blinks

@@ -1,0 +1,469 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\Engine\Cursor.png</Source>
+      <Name>Images\Engine\Cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Images\Engine\Cursor.xnb</Output>
+      <Time>2012-11-25T01:33:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Engine\RadialMenuHighlight.png</Source>
+      <Name>Images\Engine\RadialMenuHighlight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Images\Engine\RadialMenuHighlight.xnb</Output>
+      <Time>2012-11-25T01:33:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Engine\RadialMenuItem.png</Source>
+      <Name>Images\Engine\RadialMenuItem</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Images\Engine\RadialMenuItem.xnb</Output>
+      <Time>2012-11-25T01:33:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Platforms\_8x1.png</Source>
+      <Name>Images\Platforms\_8x1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Images\Platforms\_8x1.xnb</Output>
+      <Time>2012-11-27T23:01:10.7574112+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Characters\Baine\Standing.png</Source>
+      <Name>Images\Characters\Baine\Standing</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Images\Characters\Baine\Standing.xnb</Output>
+      <Time>2012-11-25T04:19:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Characters\Baine\Crouching.png</Source>
+      <Name>Images\Characters\Baine\Crouching</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Images\Characters\Baine\Crouching.xnb</Output>
+      <Time>2012-11-25T04:19:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Characters\Baine\Jump.png</Source>
+      <Name>Images\Characters\Baine\Jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Images\Characters\Baine\Jump.xnb</Output>
+      <Time>2012-11-25T04:19:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Platforms\_3x1.png</Source>
+      <Name>Images\Platforms\_3x1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Images\Platforms\_3x1.xnb</Output>
+      <Time>2012-11-27T22:57:36.6895968+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Platforms\_8x8.png</Source>
+      <Name>Images\Platforms\_8x8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Images\Platforms\_8x8.xnb</Output>
+      <Time>2012-11-27T22:56:04.0163392+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Characters\Baine\Idle.png</Source>
+      <Name>Images\Characters\Baine\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Images\Characters\Baine\Idle.xnb</Output>
+      <Time>2012-11-25T14:34:57+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Platforms\_10x1.png</Source>
+      <Name>Images\Platforms\_10x1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Images\Platforms\_10x1.xnb</Output>
+      <Time>2012-11-27T22:59:36.0211872+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Platforms\MaterialPreview.png</Source>
+      <Name>Images\Platforms\MaterialPreview</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Images\Platforms\MaterialPreview.xnb</Output>
+      <Time>2012-11-28T00:26:28.5564448+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\Exit.png</Source>
+      <Name>Images\Menu\Exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Images\Menu\Exit.xnb</Output>
+      <Time>2012-12-05T19:09:03+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\Load.png</Source>
+      <Name>Images\Menu\Load</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Images\Menu\Load.xnb</Output>
+      <Time>2012-12-05T19:09:03+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\New.png</Source>
+      <Name>Images\Menu\New</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Images\Menu\New.xnb</Output>
+      <Time>2012-12-05T19:09:03+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\Options.png</Source>
+      <Name>Images\Menu\Options</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Images\Menu\Options.xnb</Output>
+      <Time>2012-12-05T19:09:03+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\Save.png</Source>
+      <Name>Images\Menu\Save</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Images\Menu\Save.xnb</Output>
+      <Time>2012-12-05T19:09:03+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\Editor.png</Source>
+      <Name>Images\Menu\Editor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Images\Menu\Editor.xnb</Output>
+      <Time>2012-12-06T11:20:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Traps\Spikes.png</Source>
+      <Name>Images\Traps\Spikes</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Images\Traps\Spikes.xnb</Output>
+      <Time>2012-12-06T13:33:45+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Platforms\_16x16.png</Source>
+      <Name>Images\Platforms\_16x16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Images\Platforms\_16x16.xnb</Output>
+      <Time>2012-12-07T10:34:47+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Items\HealthPotion.png</Source>
+      <Name>Images\Items\HealthPotion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Images\Items\HealthPotion.xnb</Output>
+      <Time>2012-12-10T10:15:37+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Items\ManaPotion.png</Source>
+      <Name>Images\Items\ManaPotion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Images\Items\ManaPotion.xnb</Output>
+      <Time>2012-12-10T10:19:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Items\PoisonPotion.png</Source>
+      <Name>Images\Items\PoisonPotion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Images\Items\PoisonPotion.xnb</Output>
+      <Time>2012-12-10T10:28:26+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Characters\Baine\Climbing.png</Source>
+      <Name>Images\Characters\Baine\Climbing</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Images\Characters\Baine\Climbing.xnb</Output>
+      <Time>2012-12-11T13:47:43.2997728+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\Continue.png</Source>
+      <Name>Images\Menu\Continue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Images\Menu\Continue.xnb</Output>
+      <Time>2012-12-11T21:58:09.4224592+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\End.png</Source>
+      <Name>Images\Menu\End</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Images\Menu\End.xnb</Output>
+      <Time>2012-12-12T10:54:03+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Flags\Goal.png</Source>
+      <Name>Images\Flags\Goal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Images\Flags\Goal.xnb</Output>
+      <Time>2012-12-12T11:08:59+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Flags\Start.png</Source>
+      <Name>Images\Flags\Start</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Images\Flags\Start.xnb</Output>
+      <Time>2012-12-12T11:07:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\WhitePixel.png</Source>
+      <Name>Images\WhitePixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Images\WhitePixel.xnb</Output>
+      <Time>2012-12-12T18:03:02+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Characters\Enemy2\Standing.png</Source>
+      <Name>Images\Characters\Enemy2\Standing</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Images\Characters\Enemy2\Standing.xnb</Output>
+      <Time>2012-12-13T09:12:37+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Characters\Enemy2\Moving.png</Source>
+      <Name>Images\Characters\Enemy2\Moving</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Images\Characters\Enemy2\Moving.xnb</Output>
+      <Time>2012-12-13T09:12:43+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\HUD\Invisible.png</Source>
+      <Name>Images\HUD\Invisible</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Images\HUD\Invisible.xnb</Output>
+      <Time>2012-12-13T13:22:41+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\HUD\Visible.png</Source>
+      <Name>Images\HUD\Visible</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Images\HUD\Visible.xnb</Output>
+      <Time>2012-12-13T13:22:47+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Moon.png</Source>
+      <Name>Images\Background\Moon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Images\Background\Moon.xnb</Output>
+      <Time>2012-12-14T11:20:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Star1.png</Source>
+      <Name>Images\Background\Star1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Images\Background\Star1.xnb</Output>
+      <Time>2012-12-13T15:05:59+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Star2.png</Source>
+      <Name>Images\Background\Star2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Images\Background\Star2.xnb</Output>
+      <Time>2012-12-13T15:06:10+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Cloudieloud.png</Source>
+      <Name>Images\Background\Cloudieloud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Images\Background\Cloudieloud.xnb</Output>
+      <Time>2012-12-13T15:23:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Untitled.png</Source>
+      <Name>Images\Background\Untitled</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Images\Background\Untitled.xnb</Output>
+      <Time>2012-12-14T09:42:03+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\originalClouds.jpg</Source>
+      <Name>Images\Background\originalClouds</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Images\Background\originalClouds.xnb</Output>
+      <Time>2012-12-14T09:44:35+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\clouds.png</Source>
+      <Name>Images\Background\clouds</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Images\Background\clouds.xnb</Output>
+      <Time>2012-12-14T09:50:55+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\GameOver.png</Source>
+      <Name>Images\Menu\GameOver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Images\Menu\GameOver.xnb</Output>
+      <Time>2012-12-14T12:33:03+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\SmallFont.spritefont</Source>
+      <Name>Fonts\SmallFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Fonts\SmallFont.xnb</Output>
+      <Time>2012-11-25T01:44:18+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Footsteps.wav</Source>
+      <Name>Sounds\Footsteps</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Sounds\Footsteps.xnb</Output>
+      <Time>2012-11-25T02:11:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Jump Sound.wav</Source>
+      <Name>Sounds\Jump Sound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Sounds\Jump Sound.xnb</Output>
+      <Time>2012-11-25T02:11:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Swoosh.wav</Source>
+      <Name>Sounds\Swoosh</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Sounds\Swoosh.xnb</Output>
+      <Time>2012-11-25T02:30:03+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Nom.wav</Source>
+      <Name>Sounds\Nom</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Sounds\Nom.xnb</Output>
+      <Time>2012-12-10T12:34:17+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\BaineSong.wav</Source>
+      <Name>Sounds\BaineSong</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\Sounds\BaineSong.xnb</Output>
+      <Time>2012-12-14T14:02:54+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnightContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnightContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Documents and Settings\Martin.7W5AAX6XQYBJBH2\Mina dokument\Dropbox\Wins and Lolz and Soforth\Code\Baine\OdorKnight\OdorKnight\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-09-03T19:00:09.2906736+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

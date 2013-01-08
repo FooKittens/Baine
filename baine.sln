@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baine", "OdorKnight\OdorKnight\Baine.csproj", "{913E5EAF-E7BD-4005-9BFE-2F19ECA53BC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaineContent", "OdorKnight\OdorKnightContent\BaineContent.contentproj", "{B0DAFE70-7DFA-4EC3-BFB5-E07FD6771876}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{913E5EAF-E7BD-4005-9BFE-2F19ECA53BC6}.Debug|x86.ActiveCfg = Debug|x86
+		{913E5EAF-E7BD-4005-9BFE-2F19ECA53BC6}.Debug|x86.Build.0 = Debug|x86
+		{913E5EAF-E7BD-4005-9BFE-2F19ECA53BC6}.Release|x86.ActiveCfg = Release|x86
+		{913E5EAF-E7BD-4005-9BFE-2F19ECA53BC6}.Release|x86.Build.0 = Release|x86
+		{B0DAFE70-7DFA-4EC3-BFB5-E07FD6771876}.Debug|x86.ActiveCfg = Debug|x86
+		{B0DAFE70-7DFA-4EC3-BFB5-E07FD6771876}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
